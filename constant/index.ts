@@ -52,13 +52,7 @@ export const footerData = [
         title: 'News Letter',
         listItem: [
             {
-                _id: '04',
-                listData: [
-                    '', // Could be replaced with actual content or left empty
-                    '', 
-                    '', 
-                    '',
-                ],
+              
             },
         ],
     },
